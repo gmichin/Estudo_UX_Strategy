@@ -83,6 +83,54 @@ Benefícios
 - Anywhere office (trabalhe em qualquer lugar): Também podemos trabalhar de qualquer lugar (Anywhere office), sendo um movimento que ganhou mais visibilidade durante a pandemia. Alguns modelos de negócio podem ser pensados a partir dessa premissa. 
 - Serviços automatizados: Por fim, temos os serviços automatizados, onde novas tecnologias nos ajudam na automatização, como é o caso do Chat GPT.
 
+### Pilares de um Negócio Digital
+
+Temos os seguintes pilares:
+- Tecnologia
+- Inovação
+- Atualização
+- Competitividade
+- Marketing
+
+Pilar da Tecnologia
+Ao iniciar um novo negócio digital, é imprescindível definir a tecnologia que será utilizada para suportar os produtos e serviços oferecidos. A seguir, apresentamos exemplos de tecnologias que podem ser consideradas para o modelo de negócio:
+- Inteligência Artificial (IA)
+- Realidade Virtual e Realidade Aumentada
+- Big Data
+- Internet das Coisas (IoT)
+- Blockchain
+  
+Pilar da Inovação
+Existem três tipos de inovação:
+
+- Incremental: Pequenas Melhorias ou Atualizações; Importantes para manter um produto ou serviço existindo; Exemplo: atualizações constantes no Gmail. Pequenas melhorias ou atualizações são realizadas em produtos e serviços para que possam se manter competitivos no mercado e evitar a extinção. O Gmail é um exemplo de serviço que recebe atualizações frequentes. Por isso, ele existe a tanto tempo no mercado como ferramenta de e-mail.
+- Radical: Envolvem consideráveis mudanças; São aquelas que envolvem estratégias do Oceano Azul; Exemplo: Íon Itaú. A inovação radical são mudanças significativas que podem ser estrategicamente alcançadas através da abordagem da teoria do Oceano Azul. Caso não esteja familiarizado com esse conceito, é recomendável a leitura do livro "A estratégia do Oceano Azul: Como criar novos mercados e tornar a concorrência irrelevante", de W. Chan Kim e Renée Mauborgne. Essa estratégia está relacionada à identificação de novos mercados, ou seja, à compreensão do que já existe e à oferta de algo distinto a partir das inúmeras oportunidades que são descobertas através de pesquisas de mercado feitas. Um exemplo de programa radical é o Íon do Itaú, que utiliza o Big Data para oferecer um serviço de investimento com taxa zero. Essa abordagem é considerada radical porque subverte a lógica dos serviços de investimento que geralmente envolvem o pagamento de taxas através de corretoras, invertendo a forma como as pessoas consomem esse tipo de produto.
+- Disruptiva: Mudam todo o sistema de comportamento de consumo; Envolvem Inovações Tecnológicas e de Significado; Exemplo: Spotify. A Inovação Disruptiva é capaz de transformar todo o sistema de comportamento de consumo, por meio de inovações tecnológicas e de significado. Essa abordagem altera a forma como as pessoas se relacionam com um produto ou serviço, como é o caso do Spotify. Existe um documentário disponível na Netflix que aborda como a empresa iniciou suas atividades e a preocupação dos líderes em relação à experiência do usuário.
+
+Pilar da Atualização
+- Atualização Constante
+- Experiência do usuário
+- Concorrência
+- Custos
+- Público
+- Sazonalidade do Negócio
+- Tecnologia
+- Dados
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse contexto, é relevante analisarmos todos os aspectos cruciais que não devem ser negligenciados durante a gestão de um negócio digital, sendo a experiência do usuário um dos pontos fundamentais. Por essa razão, a UX Strategy (experiência do usuário) desempenha um papel importante no universo dos negócios digitais, visto que se relaciona diretamente com a forma como as pessoas irão interagir com o nosso produto ou serviço. Além disso, estratégias de diferenciação de mercado podem incluir a redução de custos desse serviço em relação à concorrência. É fundamental realizarmos análises periódicas sobre possíveis mudanças no comportamento do público-alvo, tendências, sazonalidade do negócio, evolução tecnológica e dados. Esses são os pontos fundamentais de mantermos atualizados.
+
+Pilar da Competitividade
+- Análise de Ambiente
+- Análise de Concorrência
+- Pesquisa com Usuários
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse âmbito, iniciamos a avaliação do ambiente, análise da concorrência e realização de pesquisas com pessoas usuárias. Ou seja, tudo que desenvolvemos dentro de um projeto de estratégia de UX. Agora, percebemos a relação entre o empreendimento de um negócio digital e a implementação de estratégias de UX (experiência do usuário). Essa interdependência se dá pelo fato de que, para se destacar em um mercado cada vez mais competitivo, é imprescindível que o usuário tenha uma experiência satisfatória com o produto ou serviço oferecido.
+
+Pilar do Marketing
+- Crescimento
+- Escalabilidade
+- Retenção e Fidelização (growth marketing)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No âmbito da UX Strategy, o pilar de marketing se divide em diversas áreas, incluindo crescimento, escalabilidade e retenção e fidelização (growth marketing). O crescimento é um elemento essencial em qualquer negócio digital, uma vez que representa a expansão do empreendimento, aumento da base de usuários e, consequentemente, maior lucratividade. A escalabilidade, por sua vez, se refere à capacidade de expansão do empreendimento sem que ocorra um aumento proporcional nos custos ou na complexidade do negócio. Por fim, a retenção e fidelização (growth marketing) têm o objetivo de manter os usuários engajados e satisfeitos com o produto ou serviço oferecido, a fim de criar uma base de clientes fiéis e duradouros. Nesse sentido, a implementação de estratégias de marketing voltadas para a experiência do usuário é fundamental para garantir o crescimento e a longevidade do negócio digital.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
