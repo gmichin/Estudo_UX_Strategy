@@ -133,6 +133,22 @@ Pilar do Marketing
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No âmbito da UX Strategy, o pilar de marketing se divide em diversas áreas, incluindo crescimento, escalabilidade e retenção e fidelização (growth marketing). O crescimento é um elemento essencial em qualquer negócio digital, uma vez que representa a expansão do empreendimento, aumento da base de usuários e, consequentemente, maior lucratividade. A escalabilidade, por sua vez, se refere à capacidade de expansão do empreendimento sem que ocorra um aumento proporcional nos custos ou na complexidade do negócio. Por fim, a retenção e fidelização (growth marketing) têm o objetivo de manter os usuários engajados e satisfeitos com o produto ou serviço oferecido, a fim de criar uma base de clientes fiéis e duradouros. Nesse sentido, a implementação de estratégias de marketing voltadas para a experiência do usuário é fundamental para garantir o crescimento e a longevidade do negócio digital.
 
+### Os princípios de UX Strategy
+
+Os 4 princípios indicados por Jaime Levy no livro "Estratégia de UX: Técnicas de Estratégia de Produto Para Criar Soluções Digitais Inovadoras".
+- Estratégia de Negócio (Business Strategy)
+- Inovação de Valor (Value Proposition)
+- Pesquisa com o usuário validada (Validated User Research)
+- UX Design 'matador' (Killer UX Design)
+
+No livro, a autora destaca:
+- Estratégia de UX = Estratégia de Negócios + Inovação de Valor + Pesquisa de Usuários Validada + UX sem Complicações: UX sem complicações e UX Design 'matador' são sinônimos para a autora.
+Em nosso documento oficial no Notion da Mosaico Bank, temos o Briefing de UX Strategy. Começaremos abordando os princípios dessa estratégia e aplicando-os na prática para nosso cliente Mosaico Bank.
+- Estratégia de Negócios: O objetivo deste curso é criar uma Estratégia de Negócios para a Mosaico Bank. Para isso, vamos analisar todos os dados e informações já disponíveis e identificar as lacunas que precisam ser preenchidas com pesquisas adicionais. Em seguida, vamos documentar tudo para ajudar a empresa a tomar decisões mais informadas e bem fundamentadas. Ao falarmos em estratégia de negócios, estamos nos referindo à análise ampla da empresa, que inclui o público-alvo, objetivos, missão, visão e valores. É importante ter uma visão geral da empresa para definir as melhores ações a serem tomadas para alcançar as metas estabelecidas.
+- Inovação de Valor: Ao falarmos do segundo princípio de inovação de valor, em aulas passadas falamos sobre os tipos de inovação e definimos no Notion (em "Outras informações") que a inovação é incremental e talvez uma radical. Nesse momento, é realizada a análise do cenário do negócio, onde serão abordados temas como macro e microambiente, além da análise SWOT, que será aprofundada na aula 4 deste curso, como parte da estratégia de negócios. Após diagnosticar a visão estratégica do negócio, podemos planejar o tipo de inovação a ser desenvolvida, sendo a inovação de valor aquela que visa romper com o status quo de um produto ou serviço, tirando o comportamento de consumo da zona de conforto e evoluindo a forma como oferecemos produtos e serviços. Isso significa que vamos promover inovação. Ao adquirirmos um conhecimento mais sólido sobre o negócio e o mercado em que ele está inserido, podemos ter uma noção da inovação a ser desenvolvida.
+- Pesquisa com o usuário validada: Nesta aula, abordaremos o público-alvo e a persona da Mosaico Bank para entender melhor o nível de aprofundamento necessário para o curso 2 da formação de UX Strategy, que está relacionado ao desenvolvimento das personas. Embora esta etapa não seja o foco deste curso, nos próximos módulos, falaremos bastante sobre esse tema, pois está relacionado ao terceiro princípio de UX.
+- UX Design 'matador': O quarto princípio consiste em desenvolver soluções para os problemas existentes, utilizando as informações e estratégias acumuladas desde a montagem do briefing, conforme previsto.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
