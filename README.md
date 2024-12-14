@@ -64,5 +64,24 @@ Trabalharemos com três perguntas básicas para a definição de escopo:
   
 Por fim, é importante lembrar que o escopo pode prever estratégias para um único produto ou serviço, múltiplos produtos e serviços ou organizações inteiras.
 
+### Modelo de Negócios
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A estratégia de UX (UX Strategy) pode ser aplicada a negócios de qualquer tipo ou tamanho. No entanto, é comum que, no cenário atual, a estratégia de UX seja desenvolvida para novos negócios. É importante considerar que muitas pessoas acreditam erroneamente que criar um negócio digital é fácil, simplesmente porque dominam as ferramentas necessárias e conseguem criar um site rapidamente, além de criar uma nova marca e colocá-la no Instagram. No entanto, a verdade é que, para um negócio digital ser sustentável, é preciso ter uma estratégia bem definida, que começa com a definição de um modelo de negócios. Vamos aprender bastante sobre modelagem de negócios ao longo das aulas e dos próximos cursos por se tratar de uma formação.
+
+Temos diferentes modelos de negócio, alguns dos principais são:
+- E-commerce: Muitas pessoas já se acostumaram a comprar através do E-commerce, tornando esse modelo bastante tradicional.
+- Marketplace: Já os Marketplaces, que também são considerados E-commerce, estão em alta. Um exemplo é a Magazine Luiza, que se tornou um Marketplace, o que significa que o site da marca passou a vender diferentes produtos de diferentes produtores, tornando-se um ambiente multimarcas.
+- Infoproduto: Além do E-commerce e dos Marketplaces, há também uma crescente demanda por infoprodutos, que incluem formatos como ebooks, cursos e podcasts.
+- Assinatura: Existem ainda os programas de assinaturas, como o Gympass, que permite o acesso a academias em diferentes locais. 
+- Soluções SaaS (software as a service): As soluções SaaS são conhecidas como "software como serviço" em português. Um exemplo de aplicação SaaS é o Trello, uma ferramenta bastante utilizada por profissionais de TI ou Design.
+- Marketing de Conteúdo/Influência: Por fim, temos o Marketing de Conteúdo/Influência que não deixa de ser um modelo de negócios digital.
+- 
+Benefícios
+
+- Menor investimento: O primeiro benefício em ter um negócio digital é o menor investimento necessário, pois para iniciá-lo precisamos contar com o nosso próprio trabalho e com alguma pessoa desenvolvedora que monte uma plataforma ou aplicativo. Como esse tipo de negócio não exige estrutura física, o investimento inicial é menor do que se fosse necessário um ambiente físico.
+- Negócio escalável: Os negócios digitais também podem ser escaláveis. Ou seja: o esforço necessário para vender um produto pode ser aplicado na venda de mil produtos. Uma vez que o produto ou serviço está disponível online, é possível escalá-lo para quantas vendas forem necessárias.
+- Venda em qualquer lugar 24/7: Outra vantagem dos negócios digitais é a possibilidade de vender produtos ou serviços 24 horas por dia, 7 dias por semana, 24/7. Essa flexibilidade de horários aumenta as chances das nossas vendas, pois o cliente pode fazer compras a qualquer momento.
+- Anywhere office (trabalhe em qualquer lugar): Também podemos trabalhar de qualquer lugar (Anywhere office), sendo um movimento que ganhou mais visibilidade durante a pandemia. Alguns modelos de negócio podem ser pensados a partir dessa premissa. 
+- Serviços automatizados: Por fim, temos os serviços automatizados, onde novas tecnologias nos ajudam na automatização, como é o caso do Chat GPT.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
