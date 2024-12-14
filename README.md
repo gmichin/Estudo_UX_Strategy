@@ -1,5 +1,5 @@
 # Estudos UX Strategy
-Meterial para ajudar:
+Material para ajudar:
 - [Exemplo de briefing completado MOSAICO](https://marbled-pound-285.notion.site/Vis-o-geral-24d211fd09bd438bb56ef4b7b55a1405)
 - [Briefing vazio a ser completado](https://marbled-pound-285.notion.site/Briefing-UX-Strategy-1-6e3ee2e095974545a5478d766bca65fc)
 
