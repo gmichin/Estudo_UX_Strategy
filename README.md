@@ -123,12 +123,14 @@ Pilar da Competitividade
 - Análise de Ambiente
 - Análise de Concorrência
 - Pesquisa com Usuários
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse âmbito, iniciamos a avaliação do ambiente, análise da concorrência e realização de pesquisas com pessoas usuárias. Ou seja, tudo que desenvolvemos dentro de um projeto de estratégia de UX. Agora, percebemos a relação entre o empreendimento de um negócio digital e a implementação de estratégias de UX (experiência do usuário). Essa interdependência se dá pelo fato de que, para se destacar em um mercado cada vez mais competitivo, é imprescindível que o usuário tenha uma experiência satisfatória com o produto ou serviço oferecido.
 
 Pilar do Marketing
 - Crescimento
 - Escalabilidade
 - Retenção e Fidelização (growth marketing)
+
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No âmbito da UX Strategy, o pilar de marketing se divide em diversas áreas, incluindo crescimento, escalabilidade e retenção e fidelização (growth marketing). O crescimento é um elemento essencial em qualquer negócio digital, uma vez que representa a expansão do empreendimento, aumento da base de usuários e, consequentemente, maior lucratividade. A escalabilidade, por sua vez, se refere à capacidade de expansão do empreendimento sem que ocorra um aumento proporcional nos custos ou na complexidade do negócio. Por fim, a retenção e fidelização (growth marketing) têm o objetivo de manter os usuários engajados e satisfeitos com o produto ou serviço oferecido, a fim de criar uma base de clientes fiéis e duradouros. Nesse sentido, a implementação de estratégias de marketing voltadas para a experiência do usuário é fundamental para garantir o crescimento e a longevidade do negócio digital.
 
 ### Para saber mais
