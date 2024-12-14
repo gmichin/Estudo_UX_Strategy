@@ -4,7 +4,7 @@ Meterial para ajudar:
 - [Briefing vazio a ser completado](https://marbled-pound-285.notion.site/Briefing-UX-Strategy-1-6e3ee2e095974545a5478d766bca65fc)
 
 ## O que é UX strategy?
-Técnicas que servem para embasar e desenhar estratégias de negócio que sejam centradas na experiência da pessoa usuário, sendo o perfil profissional de quem pensa na estratégia diferente de quem executa o design.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Técnicas que servem para embasar e desenhar estratégias de negócio que sejam centradas na experiência da pessoa usuário, sendo o perfil profissional de quem pensa na estratégia diferente de quem executa o design.
 
 Para que pode servir?
 - Desenvolvimento de um Negócio
