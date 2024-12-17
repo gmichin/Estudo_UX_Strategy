@@ -192,6 +192,28 @@ O Design Thinking possui três fase macro, sendo elas:
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já a fase de validação é onde a solução final é testada e refinada. Nessa fase, as pessoas usuárias são convidados a testar o protótipo e fornecer feedback. O objetivo é garantir que a solução final atenda às necessidades dos usuários e seja viável do ponto de vista do negócio.
 
 
+### Público-alvo
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No briefing, uma das etapas é a definição do público-alvo, mas é importante destacar que o conceito de persona também é fundamental. Abordaremos brevemente esse conceito e criaremos uma persona para o projeto Mosaico, mas esse assunto será mais explorado nos próximos cursos da formação.
+
+Para desenvolver a persona, precisamos responder às seguintes perguntas:
+- quais são seus sonhos, objetivos e desejos?
+- quais são suas principais dores e dificuldades?
+- quais desafios e frustrações este cliente enfrenta?
+- qual o seu estilo de vida, seus hobbies e atividades mais comuns?
+- em quais mídias ele está mais presente e consome conteúdo?
+- quais são seus principais interesses, em especial no ambiente online?
+- e como sua empresa pode ajudá-lo de fato?
+
+As perguntas acima são sempre relacionadas ao negócio em questão, no caso, um banco. As respostas sobre a pergunta de hobbies e outros aspectos podem gerar insights relevantes para o desenvolvimento do produto ou serviço. Essas perguntas são úteis para entendermos o comportamento da pessoa usuária. Na formação, apresentaremos uma ferramenta chamada Mapa da Empatia que pode nos auxiliar nisso.
+
+Vamos compreender a distinção entre analisar um público-alvo e traçar o perfil de uma persona.
+
+Público-alvo: mulheres e homens, entre 30 e 40 anos, que moram em grandes centros urbanos. Possuem ensino superior completo e estão em busca de um banco moderno.
+
+Persona: Alice, solteira, 30 anos, mora na cidade de São Paulo e trabalha remotamente para uma empresa de tecnologia. Alice tem liberdade geográfica e está sempre planejando a sua próxima viagem. Ela se deu conta de que não utiliza nenhum programa de milhas e deseja entender melhor sobre esse benefício. Ela também deseja ter um banco mais moderno e ágil para fazer suas transações financeiras.
+Ao observarmos a descrição do público-alvo, percebe-se que as informações são objetivas, mas não falsas. Já a descrição da persona apresenta mais detalhes, como estado civil, idade, interesses e desejos.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
