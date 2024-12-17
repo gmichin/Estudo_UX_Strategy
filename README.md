@@ -211,6 +211,25 @@ Público-alvo: mulheres e homens, entre 30 e 40 anos, que moram em grandes centr
 Persona: Alice, solteira, 30 anos, mora na cidade de São Paulo e trabalha remotamente para uma empresa de tecnologia. Alice tem liberdade geográfica e está sempre planejando a sua próxima viagem. Ela se deu conta de que não utiliza nenhum programa de milhas e deseja entender melhor sobre esse benefício. Ela também deseja ter um banco mais moderno e ágil para fazer suas transações financeiras.
 Ao observarmos a descrição do público-alvo, percebe-se que as informações são objetivas, mas não falsas. Já a descrição da persona apresenta mais detalhes, como estado civil, idade, interesses e desejos.
 
+
+### Obstáculos para o desenvolvimento de projetos de UX Strategy
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As empresas não facilitam práticas que coloquem o usuário no centro das decisões estratégicas de todas as áreas. Ou seja, nem todas as áreas entendem a experiência da pessoa usuária como ponto central do desenvolvimento de projetos, produtos e serviços. Como podemos mudar o modelo mental dessas empresas, pessoas e áreas, para que elas incluam a experiência da pessoa usuária? A partir da cultura UX Strategy.
+
+Cultura: Conjunto de formas, crenças, práticas comuns, regras, normas, códigos e expressões que caracterizam uma determinada sociedade.
+
+Cultura no ambiente de negócios: Valores, práticas e comportamentos das pessoas envolvidas na empresa. É o como percorrer o caminho em busca dos resultados. Quais são as regras? As práticas comuns das pessoas dessa empresa que fazem com que elas trabalhem conjuntamente em busca dos resultados, das metas e objetivos do negócio? Precisamos discutir como desenvolver a cultura de UX. Segundo Phil Gilbert, da IBM, existem três características importantes para isso:
+- Desenvolver as pessoas. Ou seja, considerar a experiência da pessoa usuária como centro do projeto, isto é, do desenvolvimento de produtos e serviços.
+- Considerar as práticas das pessoas e não os processos. Lembrando que as práticas estão relacionadas, especificamente, com o uso de ferramentas e metodologias que incorporarão a cultura de UX Strategy - e funcionam por meio do design - para nos ajudar a trabalhar de maneira colaborativa.
+- Avaliar quanto tornamos propício o ambiente para essas práticas de engajamento das pessoas.
+
+O desenvolvimento da cultura de UX Strategy também depende de uma questão importante: a maturidade da empresa em relação ao UX. O professor e pesquisador na área de UX norte-americano, Jared Spool, traçou alguns níveis de maturidade que nos ajudam a entender o que fazer para desenvolver a cultura de UX nas organizações. São cinco níveis:
+1. Dark Age (idade das trevas). São as empresas que não conhecem e nem aplicam UX em seus projetos.
+2. Spot UX (foco de UX). São as empresas que focam em UX, mas ainda não contam com um time interno que trabalhe especialmente em projetos relacionados a isso.
+3. UX Design as a Service(UX como serviços). São as empresas que já possuem algumas características relacionadas ao desenvolvimento de projetos e times internos focados em UX.
+4.Embedded UX Design (design embutido). São as empresas que já incorporaram a cultura de UX na maioria de seus projetos.
+5. Infused UX Design (infusão de design). A empresa está completamente imersa/envolvida pela ideia da experiência da pessoa usuária em primeiro lugar.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
