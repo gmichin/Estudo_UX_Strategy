@@ -304,6 +304,18 @@ Já a análise do microambiente refere-se às influências mais próximas da emp
 
 Ao realizar uma análise de macro e microambiente, as empresas podem identificar oportunidades para expansão de negócios, antecipar mudanças no mercado, identificar novas tendências e se preparar para desafios futuros. A compreensão desses fatores é fundamental para o sucesso a longo prazo de uma empresa. Em resumo, a análise de macro e microambiente é importante em projetos de UX Strategy porque ajuda a empresa a entender o contexto em que a pessoa usuária está inserida e a projetar soluções que atendam às necessidades das pessoas usuárias e do mercado. Isso, por sua vez, ajuda a empresa a criar uma vantagem competitiva ao melhorar a experiência de seus produtos e serviços.
 
+### Missão, visão e valores
+Com a documentação Briefing de UX Strategy aberta no Notion, vamos acessar a aba de visão geral. Teremos 4 novos elementos:
+
+- Missão (o quê): A missão sempre está relacionada a "o quê" a empresa oferece para o mercado. Em detrimento do propósito, que significa o "como" fazer isso.
+- Propósito (como):A missão está relacionada à razão de ser do negócio, sendo o principal benefício que a empresa entrega à sua pessoa cliente. Além disso, a missão é um diferencial competitivo perante a concorrência. Enquanto a missão se relaciona muito mais com os produtos e os serviços, o propósito se relaciona com o motivo para engajar as pessoas.
+- Visão: A visão está relacionada a onde a empresa quer chegar em determinado período. Perceba que sempre existe uma cronologia atrelada à visão.
+- Valores: Os valores estão relacionados ao DNA da empresa, ou seja, com o que a empresa tem de mais essencial, suas características únicas.
+
+Como trabalhar com missão, visão e valores?
+
+Em alguns casos, teremos a liberdade de trabalhar missão, visão e valores junto à empresa. Porém, muitas vezes precisamos apenas nos aprofundar na missão, visão e valores para conseguir traçar as estratégias de UX que conversam com essas definições que a empresa já tem e nos apresenta. É essencial que as estratégias estejam sempre conectadas pelos direcionamentos estratégicos já traçados pelo negócio. UX Strategy é simplesmente coletar todas as informações da empresa para definir o que ela é e trazer para projetos que pensem a experiência da pessoa usuária.
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
