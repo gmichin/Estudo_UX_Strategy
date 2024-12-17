@@ -227,7 +227,7 @@ O desenvolvimento da cultura de UX Strategy também depende de uma questão impo
 1. Dark Age (idade das trevas). São as empresas que não conhecem e nem aplicam UX em seus projetos.
 2. Spot UX (foco de UX). São as empresas que focam em UX, mas ainda não contam com um time interno que trabalhe especialmente em projetos relacionados a isso.
 3. UX Design as a Service(UX como serviços). São as empresas que já possuem algumas características relacionadas ao desenvolvimento de projetos e times internos focados em UX.
-4.Embedded UX Design (design embutido). São as empresas que já incorporaram a cultura de UX na maioria de seus projetos.
+4. Embedded UX Design (design embutido). São as empresas que já incorporaram a cultura de UX na maioria de seus projetos.
 5. Infused UX Design (infusão de design). A empresa está completamente imersa/envolvida pela ideia da experiência da pessoa usuária em primeiro lugar.
 
 ### Para saber mais
