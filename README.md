@@ -224,10 +224,23 @@ Cultura no ambiente de negócios: Valores, práticas e comportamentos das pessoa
 - Avaliar quanto tornamos propício o ambiente para essas práticas de engajamento das pessoas.
 
 O desenvolvimento da cultura de UX Strategy também depende de uma questão importante: a maturidade da empresa em relação ao UX. O professor e pesquisador na área de UX norte-americano, Jared Spool, traçou alguns níveis de maturidade que nos ajudam a entender o que fazer para desenvolver a cultura de UX nas organizações. São cinco níveis:
+
 1. Dark Age (idade das trevas). São as empresas que não conhecem e nem aplicam UX em seus projetos.
+   
+O que fazer para avançar para o próximo nível: educar sobre UX, demonstrando os benefícios de começar a olhar para a experiência do usuário. Se você está prestando consultoria para uma empresa, você pode apresentar os resultados dos cases que você já trabalhou. Se você faz parte do time interno da empresa, pode começar a falar sobre UX e trazer estudos que comprovem os seus benefícios para o negócio.
+
 2. Spot UX (foco de UX). São as empresas que focam em UX, mas ainda não contam com um time interno que trabalhe especialmente em projetos relacionados a isso.
+
+O que fazer para avançar para o próximo nível: valorizar os resultados obtidos com essas estratégias pontuais, demonstrando as vantagens de terem sido considerados os aspectos de design e experiência do usuário. Estabeleça métricas de UX e apresente aos stakeholders. Você pode também estimular o trabalho cada vez mais colaborativo.
+
 3. UX Design as a Service(UX como serviços). São as empresas que já possuem algumas características relacionadas ao desenvolvimento de projetos e times internos focados em UX.
+
+O que fazer para avançar para o próximo nível: apresentar resultados consistentes adquiridos a partir da utilização das técnicas de UX e começar a integrar as demais áreas e os líderes da empresa no processo de UX.
+
 4. Embedded UX Design (design embutido). São as empresas que já incorporaram a cultura de UX na maioria de seus projetos.
+
+O que fazer para avançar para o próximo nível: você pode criar influenciadores internos de UX, através da disseminação consistente de conhecimentos entre as áreas. Você pode fazer isso através de treinamentos, compartilhamento de conteúdos e a criação de um sistema de design.
+
 5. Infused UX Design (infusão de design). A empresa está completamente imersa/envolvida pela ideia da experiência da pessoa usuária em primeiro lugar.
 
 ### Perfis de quem trabalha com UX
