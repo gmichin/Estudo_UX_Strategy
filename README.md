@@ -149,6 +149,49 @@ Em nosso documento oficial no Notion da Mosaico Bank, temos o Briefing de UX Str
 - Pesquisa com o usuário validada: Nesta aula, abordaremos o público-alvo e a persona da Mosaico Bank para entender melhor o nível de aprofundamento necessário para o curso 2 da formação de UX Strategy, que está relacionado ao desenvolvimento das personas. Embora esta etapa não seja o foco deste curso, nos próximos módulos, falaremos bastante sobre esse tema, pois está relacionado ao terceiro princípio de UX.
 - UX Design 'matador': O quarto princípio consiste em desenvolver soluções para os problemas existentes, utilizando as informações e estratégias acumuladas desde a montagem do briefing, conforme previsto.
 
+### Aplicando UX Strategy por meio do Design Thinking
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Design Thinking, que significa "Pensamento de Design", é uma metodologia do campo do Design que é utilizada no mundo dos negócios como um guia passo a passo para o desenvolvimento de estratégias ou ideias inovadoras, ele tem como objetivo pensar em produtos e serviços inovadores, colocando a pessoa usuária como foco principal. Por meio dela, inicia-se o processo de criação pensando na experiência que a pessoa terá ao utilizar o produto ou serviço desenvolvido. Por essa razão, essa metodologia é amplamente utilizada no campo da UX Strategy, que busca oferecer uma experiência do usuário satisfatória e intuitiva.
+
+- Produtos e Serviços Inovadores
+- Centrado no Humano
+- Colaborativo
+- Prototipagem rápida = erro rápido
+O Design Thinking é uma metodologia que 
+
+
+Além disso, é importante ressaltar que o Design Thinking é aplicado de forma colaborativa, permitindo que diferentes perspectivas sejam consideradas durante o processo criativo. Outra característica importante do Design Thinking é a utilização da prototipagem rápida, uma abordagem que permite errar mais rápido para, posteriormente, alcançar resultados mais assertivos. Por essa razão, muitas empresas têm adotado essa metodologia em diferentes tipos de projetos, buscando inovar e atender às demandas dos seus clientes de forma mais eficiente.
+
+O Design Thinking possui três fase macro, sendo elas:
+- Descoberta
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Empatia: Entender as necessidades e motivações do(a) outro(a).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Definição: Como podemos delimitar a principal oportunidade?
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A primeira etapa, empatia, tem como objetivo compreender as necessidades, desejos e expectativas das pessoas usuárias em relação ao produto ou serviço que está sendo desenvolvido. Isto é: o terceiro princípio de UX Strategy, a pesquisa com pessoas usuárias validadas. Durante a fase de descoberta do Design Thinking, que envolve pesquisas externas, qualitativas e quantitativas, é fundamental compreender não só o público-alvo, mas também toda a parte de negócio envolvida no projeto.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já a segunda etapa, definiçãoconsiste na definição do problema a ser resolvido e na formulação de hipóteses e soluções para atender às demandas identificadas na etapa de empatia. Vamos falar sobre a definição de problema durante toda a formação.
+
+- Ideação
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Ideação: Gerar ideias que podem servir como soluções
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Na estratégia de UX, a etapa de Ideação representa o momento em que começamos a gerar ideias para solucionar os problemas identificados na fase de descoberta. No entanto, é importante ressaltar que a Ideação não é uma etapa isolada, mas parte de um projeto que visa o levantamento de informações e a capacidade de traçar estratégias a partir dos dados coletados.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Design Thinking é uma metodologia que auxilia em projetos de UX em geral, tanto na estratégia quanto no design de experiência do usuário. Isso porque ela oferece um passo a passo para chegarmos à fase de prototipação.Assim podemos utilizar essa abordagem para desenvolver soluções que atendam às necessidades do usuário de forma mais eficiente e inovadora, garantindo a qualidade e a relevância do produto final.
+
+- Experimentação
+  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Prototipação: Construir protótipos para tornar ideias tangíveis
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Validação: Testar as experiências do público-alvo diante do protótipo
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A fase de prototipação do Design Thinking é onde as ideias são transformadas em soluções concretas. Nessa fase, são criados protótipos de baixa fidelidade, como desenhos ou esboços, e protótipos de alta fidelidade, como modelos funcionais. Esses protótipos são testados e iterados até que a solução final seja desenvolvida.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já a fase de validação é onde a solução final é testada e refinada. Nessa fase, as pessoas usuárias são convidados a testar o protótipo e fornecer feedback. O objetivo é garantir que a solução final atenda às necessidades dos usuários e seja viável do ponto de vista do negócio.
+
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
