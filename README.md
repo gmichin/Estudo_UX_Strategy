@@ -286,6 +286,17 @@ O planejamento estratégico é feito em 5 passos:
 4. Projetos e processos: criação dos planos de ação;
 5. Gestão de resultados: encontros periódicos para apresentação de resultados.
 
+### Análise de ambiente
+Matriz SWOT retangular de fundo azul contendo as informações listadas acima escritas em branco. Elas estão organizadas da seguinte forma: "FORÇAS" no canto superior esquerdo, "FRAQUEZAS" no canto superior direito, "OPORTUNIDADES" no canto inferior esquerdo, e "AMEAÇAS" no canto inferior direito. A matriz SWOT é uma ferramenta muito comum nas áreas de gestão e administração, mas também a utilizamos bastante na área de design para enxergar de forma mais ampla o cenário do nosso cliente.
+
+Quando falamos em forças e fraquezas, localizadas na parte superior da matriz, nos referimos ao ambiente interno da empresa. Como forças, nós listamos características como a cultura organizacional, as pessoas especialistas. Já como fraquezas, listamos a falta de presença na mídia e a comunicação/branding da empresa, por exemplo. Todas essas informações estão relacionadas ao ambiente interno, e se referem a diferentes setores da empresa, passando por RH, por comunicação, por gestão. Além disso, se referem a diferentes aspectos do negócio. Tudo o que for considerado interno e enxergarmos como força ou fraqueza, será listado na matriz SWOT.
+
+Já a parte inferior da matriz, onde listamos as oportunidades e as ameaças, corresponde ao ambiente externo ao negócio.Nesse caso, fazemos pesquisas de mercado, de macro e micro ambiente, para entender quais são as oportunidades e ameaças de mercado. As oportunidades também estão relacionadas à força da empresa. Perceba que uma das forças listadas foi desenvolver novos produtos. Ela está associada à oportunidade de personalização, isto é, desenvolver produtos personalizados. A mesma lógica é válida para as ameaças e fraquezas. Enquanto temos uma fraqueza relacionada à mídia, há uma ameça correspondente que se refere à falta de visibilidade.
+
+Lembre-se: em relação às oportunidades e ameaças, também devemos trabalhar na pesquisa de mercado.
+
+
+
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
