@@ -188,7 +188,6 @@ O Design Thinking possui três fase macro, sendo elas:
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Já a fase de validação é onde a solução final é testada e refinada. Nessa fase, as pessoas usuárias são convidados a testar o protótipo e fornecer feedback. O objetivo é garantir que a solução final atenda às necessidades dos usuários e seja viável do ponto de vista do negócio.
 
-
 ### Público-alvo
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No briefing, uma das etapas é a definição do público-alvo, mas é importante destacar que o conceito de persona também é fundamental. Abordaremos brevemente esse conceito e criaremos uma persona para o projeto Mosaico, mas esse assunto será mais explorado nos próximos cursos da formação.
@@ -210,7 +209,6 @@ Público-alvo: mulheres e homens, entre 30 e 40 anos, que moram em grandes centr
 
 Persona: Alice, solteira, 30 anos, mora na cidade de São Paulo e trabalha remotamente para uma empresa de tecnologia. Alice tem liberdade geográfica e está sempre planejando a sua próxima viagem. Ela se deu conta de que não utiliza nenhum programa de milhas e deseja entender melhor sobre esse benefício. Ela também deseja ter um banco mais moderno e ágil para fazer suas transações financeiras.
 Ao observarmos a descrição do público-alvo, percebe-se que as informações são objetivas, mas não falsas. Já a descrição da persona apresenta mais detalhes, como estado civil, idade, interesses e desejos.
-
 
 ### Obstáculos para o desenvolvimento de projetos de UX Strategy
 
@@ -253,7 +251,6 @@ Segundo a Dora Steimer, arquiteta de informação e UX Researcher, ou seja, pesq
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este é o sentido de trabalho colaborativo: a importância do trabalho conjunto das pessoas de todas as áreas, desde o início do projeto. Esses profissionais geralmente são da área do Design Gráfico, mas não se limitam somente a essa base de conhecimento. Basta que a pessoa consiga executar ideias e apresentar o que foi feito. Se na nossa equipe tivermos esses três profissionais que carregam consigo habilidades diferentes umas das outras, teremos um time de UX muito bem formado. Às vezes, uma única pessoa acaba executando todo esse trabalho. Não é o mais indicado, apesar de sabermos que, atualmente, algumas empresas operam nesse formato. É importante analisar: se há um gerente de produtos que se interessa por UX, por que não delegar a função de estrategista para essa pessoa? Ao fazer isso, dividimos um pouco as responsabilidades eram todas dos criativos e pesquisadores. Tanto profissionais que almejam algum desses cargos, quanto os que já lideram equipes podem ter um olhar um pouco mais estratégico para quem trabalhará nos projetos de UX.
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se você deseja ingressar na área de UX, conhecer esses diferentes perfis pode ajudar a pensar onde suas habilidades ajudarão mais. Agora, vamos conhecer a estrutura de uma equipe de UX, considerando esses três perfis profissionais. Na base, temos o estrategista: pessoa que vai organizar todo o time e dar o tom do projeto.O pesquisador, porque qualquer projeto de UX Strategy demanda pesquisas de diferentes tipos e em diferentes níveis. O gerente de produto. Em times completos de UX, teremos gerentes de produtos e estrategistas (pode acontecer de uma mesma pessoa desempenhar as duas funções). Criador, ou seja, o UX Designer, pessoa que vai colocar o projeto em prática. Líderes de áreas.
-
 
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
