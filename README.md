@@ -4,7 +4,7 @@ Material para ajudar:
 - [Briefing vazio a ser completado](https://marbled-pound-285.notion.site/Briefing-UX-Strategy-1-6e3ee2e095974545a5478d766bca65fc)
 
 ## O que é UX strategy?
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Técnicas que servem para embasar e desenhar estratégias de negócio que sejam centradas na experiência da pessoa usuário, sendo o perfil profissional de quem pensa na estratégia diferente de quem executa o design.
+Técnicas que servem para embasar e desenhar estratégias de negócio que sejam centradas na experiência da pessoa usuário, sendo o perfil profissional de quem pensa na estratégia diferente de quem executa o design.
 
 Para que pode servir?
 - Desenvolvimento de um Negócio
@@ -14,9 +14,9 @@ Para que pode servir?
 - Importância de uma nova tecnologia
   
 ### Visão Geral
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Briefing -> serve como um guia do projeto. Aqui é importante ressaltar que o briefind é esse local em comum onde iremos armazenar todas as informações sobre o projeto (histórico, tarefas pendentes, etc), essencial ao compartilhar esses dados com outras áreas/pessoas e nortear na tomada de decisões. Algumas empresas já possuem essas infomrações, enquanto que outras necessitam de um esforço maior, o que faz com que, como um estrategista UX, seja recomendável verificar a exitência do briefing, caso não tenha um, é seu papel cria-lo. 
+Briefing -> serve como um guia do projeto. Aqui é importante ressaltar que o briefind é esse local em comum onde iremos armazenar todas as informações sobre o projeto (histórico, tarefas pendentes, etc), essencial ao compartilhar esses dados com outras áreas/pessoas e nortear na tomada de decisões. Algumas empresas já possuem essas infomrações, enquanto que outras necessitam de um esforço maior, o que faz com que, como um estrategista UX, seja recomendável verificar a exitência do briefing, caso não tenha um, é seu papel cria-lo. 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Podemos acessar o [Notion](https://marbled-pound-285.notion.site/Briefing-UX-Strategy-1-6e3ee2e095974545a5478d766bca65fc) para nos auxiliar na criação desse briefing.
+Podemos acessar o [Notion](https://marbled-pound-285.notion.site/Briefing-UX-Strategy-1-6e3ee2e095974545a5478d766bca65fc) para nos auxiliar na criação desse briefing.
 
 O que não é UX strategy:
 - Senso comum: design de interfaces e usabilidade;
@@ -31,7 +31,7 @@ Como vamos fazer isso (&#x2B06;)?
 &nbsp;&nbsp;&nbsp;&nbsp;R: Olhando ***primeiro*** para experiência da pessoa usuária. Exemplos de perguntas boas: o público está realmente sensivel a esse novo produto? Quais suas reais dores e necessidades? Como a concorrência está atuando em relação ao projeto? Quais as vantagens competitivas? Como tornar a experiência da pessoa usuária inovadora e completa?
 
 ### Definição do problema
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;É importante ter em mente que a definição do problema perdura toda a etapa inicial do projeto. Isso porque, ao longo das pesquisas e da fase de imersão, podemos perceber que o problema traçado inicialmente não é exatamente o problema real que a empresa deseja resolver. Ao longo de projetos de UX e design no geral, é natural se dar conta de elementos que modificam o problema inicial. É importante se atentar a esses insights e informações que surgem nas pesquisas sobre a pessoa usuária. Assim, chegamos o mais próximo possível do problema real.
+É importante ter em mente que a definição do problema perdura toda a etapa inicial do projeto. Isso porque, ao longo das pesquisas e da fase de imersão, podemos perceber que o problema traçado inicialmente não é exatamente o problema real que a empresa deseja resolver. Ao longo de projetos de UX e design no geral, é natural se dar conta de elementos que modificam o problema inicial. É importante se atentar a esses insights e informações que surgem nas pesquisas sobre a pessoa usuária. Assim, chegamos o mais próximo possível do problema real.
 
 Ferramenta PDV: Para começar a costurar respostas, utilizaremos a ferramenta Ponto de Vista. Ela consiste em três elementos principais:
 ```
@@ -54,7 +54,7 @@ A importância da definição do problema pode ser resumida em: ***Entender o pr
 
 
 ### Escopo de projeto
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O escopo do projeto será elaborado a partir das informações iniciais, desejos e necessidades trazidas pela empresa. É importante definir o escopo de projeto já na fase inicial, porque precisamos apresentá-lo para o nosso cliente. Além disso, é o escopo de projeto que, mais adiante, nos trará o orçamento desse serviço de consultoria de estratégias de UX para determinado cliente e necessidade.
+O escopo do projeto será elaborado a partir das informações iniciais, desejos e necessidades trazidas pela empresa. É importante definir o escopo de projeto já na fase inicial, porque precisamos apresentá-lo para o nosso cliente. Além disso, é o escopo de projeto que, mais adiante, nos trará o orçamento desse serviço de consultoria de estratégias de UX para determinado cliente e necessidade.
 
 Trabalharemos com três perguntas básicas para a definição de escopo:
 
@@ -65,7 +65,7 @@ Trabalharemos com três perguntas básicas para a definição de escopo:
 Por fim, é importante lembrar que o escopo pode prever estratégias para um único produto ou serviço, múltiplos produtos e serviços ou organizações inteiras.
 
 ### Modelo de Negócios
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A estratégia de UX (UX Strategy) pode ser aplicada a negócios de qualquer tipo ou tamanho. No entanto, é comum que, no cenário atual, a estratégia de UX seja desenvolvida para novos negócios. É importante considerar que muitas pessoas acreditam erroneamente que criar um negócio digital é fácil, simplesmente porque dominam as ferramentas necessárias e conseguem criar um site rapidamente, além de criar uma nova marca e colocá-la no Instagram. No entanto, a verdade é que, para um negócio digital ser sustentável, é preciso ter uma estratégia bem definida, que começa com a definição de um modelo de negócios. 
+A estratégia de UX (UX Strategy) pode ser aplicada a negócios de qualquer tipo ou tamanho. No entanto, é comum que, no cenário atual, a estratégia de UX seja desenvolvida para novos negócios. É importante considerar que muitas pessoas acreditam erroneamente que criar um negócio digital é fácil, simplesmente porque dominam as ferramentas necessárias e conseguem criar um site rapidamente, além de criar uma nova marca e colocá-la no Instagram. No entanto, a verdade é que, para um negócio digital ser sustentável, é preciso ter uma estratégia bem definida, que começa com a definição de um modelo de negócios. 
 
 Temos diferentes modelos de negócio, alguns dos principais são:
 - E-commerce: Muitas pessoas já se acostumaram a comprar através do E-commerce, tornando esse modelo bastante tradicional.
@@ -117,21 +117,21 @@ Pilar da Atualização
 - Tecnologia
 - Dados
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse contexto, é relevante analisarmos todos os aspectos cruciais que não devem ser negligenciados durante a gestão de um negócio digital, sendo a experiência do usuário um dos pontos fundamentais. Por essa razão, a UX Strategy (experiência do usuário) desempenha um papel importante no universo dos negócios digitais, visto que se relaciona diretamente com a forma como as pessoas irão interagir com o nosso produto ou serviço. Além disso, estratégias de diferenciação de mercado podem incluir a redução de custos desse serviço em relação à concorrência. É fundamental realizarmos análises periódicas sobre possíveis mudanças no comportamento do público-alvo, tendências, sazonalidade do negócio, evolução tecnológica e dados. Esses são os pontos fundamentais de mantermos atualizados.
+Nesse contexto, é relevante analisarmos todos os aspectos cruciais que não devem ser negligenciados durante a gestão de um negócio digital, sendo a experiência do usuário um dos pontos fundamentais. Por essa razão, a UX Strategy (experiência do usuário) desempenha um papel importante no universo dos negócios digitais, visto que se relaciona diretamente com a forma como as pessoas irão interagir com o nosso produto ou serviço. Além disso, estratégias de diferenciação de mercado podem incluir a redução de custos desse serviço em relação à concorrência. É fundamental realizarmos análises periódicas sobre possíveis mudanças no comportamento do público-alvo, tendências, sazonalidade do negócio, evolução tecnológica e dados. Esses são os pontos fundamentais de mantermos atualizados.
 
 Pilar da Competitividade
 - Análise de Ambiente
 - Análise de Concorrência
 - Pesquisa com Usuários
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Nesse âmbito, iniciamos a avaliação do ambiente, análise da concorrência e realização de pesquisas com pessoas usuárias. Ou seja, tudo que desenvolvemos dentro de um projeto de estratégia de UX. Agora, percebemos a relação entre o empreendimento de um negócio digital e a implementação de estratégias de UX (experiência do usuário). Essa interdependência se dá pelo fato de que, para se destacar em um mercado cada vez mais competitivo, é imprescindível que o usuário tenha uma experiência satisfatória com o produto ou serviço oferecido.
+Nesse âmbito, iniciamos a avaliação do ambiente, análise da concorrência e realização de pesquisas com pessoas usuárias. Ou seja, tudo que desenvolvemos dentro de um projeto de estratégia de UX. Agora, percebemos a relação entre o empreendimento de um negócio digital e a implementação de estratégias de UX (experiência do usuário). Essa interdependência se dá pelo fato de que, para se destacar em um mercado cada vez mais competitivo, é imprescindível que o usuário tenha uma experiência satisfatória com o produto ou serviço oferecido.
 
 Pilar do Marketing
 - Crescimento
 - Escalabilidade
 - Retenção e Fidelização (growth marketing)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;No âmbito da UX Strategy, o pilar de marketing se divide em diversas áreas, incluindo crescimento, escalabilidade e retenção e fidelização (growth marketing). O crescimento é um elemento essencial em qualquer negócio digital, uma vez que representa a expansão do empreendimento, aumento da base de usuários e, consequentemente, maior lucratividade. A escalabilidade, por sua vez, se refere à capacidade de expansão do empreendimento sem que ocorra um aumento proporcional nos custos ou na complexidade do negócio. Por fim, a retenção e fidelização (growth marketing) têm o objetivo de manter os usuários engajados e satisfeitos com o produto ou serviço oferecido, a fim de criar uma base de clientes fiéis e duradouros. Nesse sentido, a implementação de estratégias de marketing voltadas para a experiência do usuário é fundamental para garantir o crescimento e a longevidade do negócio digital.
+No âmbito da UX Strategy, o pilar de marketing se divide em diversas áreas, incluindo crescimento, escalabilidade e retenção e fidelização (growth marketing). O crescimento é um elemento essencial em qualquer negócio digital, uma vez que representa a expansão do empreendimento, aumento da base de usuários e, consequentemente, maior lucratividade. A escalabilidade, por sua vez, se refere à capacidade de expansão do empreendimento sem que ocorra um aumento proporcional nos custos ou na complexidade do negócio. Por fim, a retenção e fidelização (growth marketing) têm o objetivo de manter os usuários engajados e satisfeitos com o produto ou serviço oferecido, a fim de criar uma base de clientes fiéis e duradouros. Nesse sentido, a implementação de estratégias de marketing voltadas para a experiência do usuário é fundamental para garantir o crescimento e a longevidade do negócio digital.
 
 ### Os princípios de UX Strategy
 
@@ -150,7 +150,7 @@ No livro, a autora destaca:
 
 ### Aplicando UX Strategy por meio do Design Thinking
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Design Thinking, que significa "Pensamento de Design", é uma metodologia do campo do Design que é utilizada no mundo dos negócios como um guia passo a passo para o desenvolvimento de estratégias ou ideias inovadoras, ele tem como objetivo pensar em produtos e serviços inovadores, colocando a pessoa usuária como foco principal. Por meio dela, inicia-se o processo de criação pensando na experiência que a pessoa terá ao utilizar o produto ou serviço desenvolvido. Por essa razão, essa metodologia é amplamente utilizada no campo da UX Strategy, que busca oferecer uma experiência do usuário satisfatória e intuitiva.
+O Design Thinking, que significa "Pensamento de Design", é uma metodologia do campo do Design que é utilizada no mundo dos negócios como um guia passo a passo para o desenvolvimento de estratégias ou ideias inovadoras, ele tem como objetivo pensar em produtos e serviços inovadores, colocando a pessoa usuária como foco principal. Por meio dela, inicia-se o processo de criação pensando na experiência que a pessoa terá ao utilizar o produto ou serviço desenvolvido. Por essa razão, essa metodologia é amplamente utilizada no campo da UX Strategy, que busca oferecer uma experiência do usuário satisfatória e intuitiva.
 
 - Produtos e Serviços Inovadores
 - Centrado no Humano
@@ -212,7 +212,7 @@ Ao observarmos a descrição do público-alvo, percebe-se que as informações s
 
 ### Obstáculos para o desenvolvimento de projetos de UX Strategy
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As empresas não facilitam práticas que coloquem o usuário no centro das decisões estratégicas de todas as áreas. Ou seja, nem todas as áreas entendem a experiência da pessoa usuária como ponto central do desenvolvimento de projetos, produtos e serviços. Como podemos mudar o modelo mental dessas empresas, pessoas e áreas, para que elas incluam a experiência da pessoa usuária? A partir da cultura UX Strategy.
+As empresas não facilitam práticas que coloquem o usuário no centro das decisões estratégicas de todas as áreas. Ou seja, nem todas as áreas entendem a experiência da pessoa usuária como ponto central do desenvolvimento de projetos, produtos e serviços. Como podemos mudar o modelo mental dessas empresas, pessoas e áreas, para que elas incluam a experiência da pessoa usuária? A partir da cultura UX Strategy.
 
 Cultura: Conjunto de formas, crenças, práticas comuns, regras, normas, códigos e expressões que caracterizam uma determinada sociedade.
 
@@ -248,9 +248,43 @@ Segundo a Dora Steimer, arquiteta de informação e UX Researcher, ou seja, pesq
 - Estrategistas: Os estrategistas têm o perfil de pessoas que lideram, isto é, que orquestram e desenvolvem os times, colaborativamente, para criar uma ótima experiência do usuário. Eles também podem ser gerentes de produtos e coordenadores de design. É comum encontrarmos líderes de outras áreas nos times de UX, que se interessam por estratégia, planejamento e acabam aprendendo sobre UX, assumindo o papel de liderança do projeto. Estrategistas também podem ser pesquisadores, mas, é importante lembrar que são habilidades diferentes. A mesma pessoa pode, sim, ter todas essas habilidades, mas o skill (habilidade) de quem trabalha com pesquisa exige qualificações técnicas diferentes do trabalho de estratégia e vice-versa. Também é papel dos estrategistas montar as equipes de trabalho de cada projeto, avaliar o orçamento e escrever um bom briefing (resumo, instruções). Seu ponto de vista é macro, tanto para organização e condução do projeto, quanto para o desenvolvimento de soluções e desenho de estratégias. Ter um olhar amplo auxiliará, de certa maneira, na orquestração/organização das ideias para as estratégias.
 - Criadores: O criadores são, de fato, os designers de interface: designers gráficos e de conteúdo que colocam a "mão na massa", isto é, colocam as pesquisas e estratégias que os demais profissionais desenvolveram em prática. Uma habilidade importante dos criadores é captar insights que aparecem ao longo do processo de projeto, transformando-os em ideias e soluções. É importante ter uma pessoa UX Designer na equipe desde o início dos projetos, pois, a partir de suas habilidades, ela vai desenvolvendo ideias e soluções no decorrer desse projeto.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Este é o sentido de trabalho colaborativo: a importância do trabalho conjunto das pessoas de todas as áreas, desde o início do projeto. Esses profissionais geralmente são da área do Design Gráfico, mas não se limitam somente a essa base de conhecimento. Basta que a pessoa consiga executar ideias e apresentar o que foi feito. Se na nossa equipe tivermos esses três profissionais que carregam consigo habilidades diferentes umas das outras, teremos um time de UX muito bem formado. Às vezes, uma única pessoa acaba executando todo esse trabalho. Não é o mais indicado, apesar de sabermos que, atualmente, algumas empresas operam nesse formato. É importante analisar: se há um gerente de produtos que se interessa por UX, por que não delegar a função de estrategista para essa pessoa? Ao fazer isso, dividimos um pouco as responsabilidades eram todas dos criativos e pesquisadores. Tanto profissionais que almejam algum desses cargos, quanto os que já lideram equipes podem ter um olhar um pouco mais estratégico para quem trabalhará nos projetos de UX.
+Este é o sentido de trabalho colaborativo: a importância do trabalho conjunto das pessoas de todas as áreas, desde o início do projeto. Esses profissionais geralmente são da área do Design Gráfico, mas não se limitam somente a essa base de conhecimento. Basta que a pessoa consiga executar ideias e apresentar o que foi feito. Se na nossa equipe tivermos esses três profissionais que carregam consigo habilidades diferentes umas das outras, teremos um time de UX muito bem formado. Às vezes, uma única pessoa acaba executando todo esse trabalho. Não é o mais indicado, apesar de sabermos que, atualmente, algumas empresas operam nesse formato. É importante analisar: se há um gerente de produtos que se interessa por UX, por que não delegar a função de estrategista para essa pessoa? Ao fazer isso, dividimos um pouco as responsabilidades eram todas dos criativos e pesquisadores. Tanto profissionais que almejam algum desses cargos, quanto os que já lideram equipes podem ter um olhar um pouco mais estratégico para quem trabalhará nos projetos de UX.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Se você deseja ingressar na área de UX, conhecer esses diferentes perfis pode ajudar a pensar onde suas habilidades ajudarão mais. Agora, vamos conhecer a estrutura de uma equipe de UX, considerando esses três perfis profissionais. Na base, temos o estrategista: pessoa que vai organizar todo o time e dar o tom do projeto.O pesquisador, porque qualquer projeto de UX Strategy demanda pesquisas de diferentes tipos e em diferentes níveis. O gerente de produto. Em times completos de UX, teremos gerentes de produtos e estrategistas (pode acontecer de uma mesma pessoa desempenhar as duas funções). Criador, ou seja, o UX Designer, pessoa que vai colocar o projeto em prática. Líderes de áreas.
+Se você deseja ingressar na área de UX, conhecer esses diferentes perfis pode ajudar a pensar onde suas habilidades ajudarão mais. Agora, vamos conhecer a estrutura de uma equipe de UX, considerando esses três perfis profissionais. Na base, temos o estrategista: pessoa que vai organizar todo o time e dar o tom do projeto.O pesquisador, porque qualquer projeto de UX Strategy demanda pesquisas de diferentes tipos e em diferentes níveis. O gerente de produto. Em times completos de UX, teremos gerentes de produtos e estrategistas (pode acontecer de uma mesma pessoa desempenhar as duas funções). Criador, ou seja, o UX Designer, pessoa que vai colocar o projeto em prática. Líderes de áreas.
+
+### Planejamento estratégico
+Imagine que você irá sair de férias, porém não planejou para onde vai, como vai, onde vai ficar, e o que vai fazer durante sua viagem. Provavelmente, ela seria um desastre, certo? Agora pense que antes da viagem você definiu o seu objetivo para as próximas férias: conhecer a Indonésia.Além disso, você traçou a meta de que irá viajar para a Indonésia nas suas próximas férias, que vão acontecer no prazo do mês de janeiro. Você reservou o orçamento de R$20.000,00 para a viagem e já reservou as passagens, avaliou como fazer os translados, fez reserva de hotéis, e também pesquisou os lugares que deseja visitar. Percebe como a experiência das suas férias pode ser bem diferente? Sobretudo, você também definiu estrategicamente que essa será uma viagem sabática, ou seja, você irá viajar sem mais ninguém. Esses são os componentes que definem o início de um planejamento estratégico. Com uma empresa, isso não é diferente. Se não forem traçados objetivos, metas e estratégias de negócio, ele não saberá para onde está indo, assim como não saberíamos se nossa viagem de férias não fosse planejada.
+
+Colaboração entre as áreas
+
+No mundo corporativo, mais importante do que as definições do planejamento, é que elas sejam compartilhadas entre todas as áreas. Quando fazemos um planejamento estratégico, é importante que todas as áreas estejam cientes de tudo o que a empresa estiver planejando. O ideal é que elas participem do momento de planejamento a cada ciclo. Para que tipo de empresa serve o planejamento?
+
+O planejamento serve para empresas de todos os tamanhos, desde empresas iniciantes, até empresas já existentes que precisam renovar o planejamento.
+
+Nós, enquanto estrategistas de UX, podemos ajudar no desenvolvimento do planejamento estratégico de pequenas empresas. Normalmente, o planejamento é feito anualmente. Por volta do mês de outubro, começa a se desenvolver o planejamento estratégico do ano seguinte, para que ele entre em ação a partir do mês de janeiro.
+
+ATENÇÃO ÀS MUDANÇAS!
+
+Porém, é muito importante ter atenção às mudanças ao longo do caminho, durante o ano de execução das estratégicas planejadas. Por exemplo: uma inovação tecnológica bastante representativa que estamos conhecendo é o ChatGTP. Essa tecnologia provavelmente irá transformar muitos mercados. Não podemos ignorar a existência dessa tecnologia e estagnar no nosso planejamento estratégico, apenas porque ele foi traçado no final do ano anterior. Então o planejamento pode ser feito atualmente e precisa ter bases sólidas sobre a estratégia do negócio, mas precisamos nos atentar às mudanças. Esse é um papel interessante que nós, enquanto estrategistas de UX, podemos fazer.
+
+Benefícios
+
+- O primeiro deles é a organização. Por meio do plano de ações, teremos um passo a passo do que precisa ser feito.
+- Também temos maior assertividade. Quando há um planejamento do que será feito, somos mais assertivos nas nossas ações. Com um planejamento, tomamos decisões baseadas em dados, o que também está relacionado à assertividade.
+- Vamos pesquisar, entender sobre o mercado, definir objetivos e metas do negócio para cada projeto. Dessa forma, nossas decisões serão muito mais embasadas, a partir das informações coletadas previamente para o desenvolvimento do planejamento estratégico.
+- Outro benefício é a priorização. Com um bom planejamento, temos consciência do que deve ser prioridade nas metas e objetivos do negócio.
+- O comprometimento é um forte benefício. Quando temos um documento do planejamento visível para todos, engajamos e comprometemos as pessoas e as áreas da empresa, para então chegar ao destino desejado.
+- Quando conseguimos mapear tudo o que precisa ser desenvolvido, garantimos a prevenção de erros e problemas, pois enxergamos possíveis empecilhos ao longo do caminho e podemos minimizá-los.
+- A produtividade também é um benefício obtido pelo planejamento, pois conseguimos olhar para o que precisa ser feito com mais definições.
+- Por fim, temos a redução de retrabalho. Com um bom planejamento, conseguimos otimizar o trabalho, reduzir problemas, e consequentemente, evitar o retrabalho.
+
+O planejamento estratégico é feito em 5 passos:
+
+1. Diagnóstico do negócio e análise do ambiente (matriz SWOT);
+2. Filosofia e cultura do negócio: definição da missão, visão e valores;
+3. Metas e indicadores;
+4. Projetos e processos: criação dos planos de ação;
+5. Gestão de resultados: encontros periódicos para apresentação de resultados.
 
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
@@ -258,7 +292,7 @@ Segundo a Dora Steimer, arquiteta de informação e UX Researcher, ou seja, pesq
 - Metodologias Ágeis: [Lean UX](https://brasil.uxdesign.cc/o-que-%C3%A9-lean-ux-525888067c36), [Kanban dentro do UX](https://www.alura.com.br/artigos/kanban-dentro-de-ux)
 - Empreendorismo Digital
   
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Fórum Econômico Mundial divulgou recentemente 5 macrotendências de competências e habilidades para os próximos anos. Vamos pensar em como desenvolvê-las e o que significa tê-las:
+O Fórum Econômico Mundial divulgou recentemente 5 macrotendências de competências e habilidades para os próximos anos. Vamos pensar em como desenvolvê-las e o que significa tê-las:
 1. O pensamento crítico está relacionado com a capacidade de reunir e analisar informações. Vamos imaginar que desejamos empreender e estamos considerando desenvolver um modelo de negócios que envolva moda, por exemplo, uma fashion tech, envolvendo moda e tecnologia. Por onde devemos começar? O primeiro passo é conectar o maior número de informações possíveis sobre a concorrência e sobre produtos e serviços que imaginamos criar para essa marca de moda. Em decorrência do Big Data (grandes dados ou grande volume de dados), atualmente, existem inúmeras ferramentas que geram dados de pesquisa. Ou seja, coletamos as informações e precisamos desenvolver habilidades para reuni-las e transformá-las em dados úteis nas nossas decisões. O modelo de negócio tem como base essas pesquisas, informações e dados. Essa habilidade, portanto, está relacionada com a quantidade de informações que temos atualmente no mercado. Se não pensarmos de maneira crítica, provavelmente seremos passados para trás pela concorrência. O pensamento crítico é um diferencial competitivo para pessoas empresárias, empreendedoras, líderes de empresas e estrategistas de UX.
 2. Para pensar nas habilidades inter-relacionais, vamos relembrar a situação anterior: estamos desenvolvendo um negócio e precisamos contratar pessoas para o nosso time, que trabalhem nesse projeto ou que sejam parceiras no negócio. Uma competência necessária para o desenvolvimento desse tipo de atividade é saber se relacionar bem com as pessoas: se comunicar, ter empatia e liderança. A competência de habilidade inter-relacional também tem a ver com engajamento, isto é, com a capacidade que um líder tem de se "auto-engajar" e engajar as demais pessoas em determinada ideia/propósito. Hoje se fala muito sobre propósito. Inclusive, as pessoas se engajam em um projeto, empresa ou trabalho, porque acreditam no que estão oferecendo. Uma das habilidades do profissional do futuro é desenvolver engajamento de times e equipes.
 3. Habilidades cognitivas superiores: Vamos imaginar que nosso negócio cresceu a ponto de exportarmos nosso produto ou serviço de moda - se envolve tecnologia, podemos, sim, falar de um serviço como modelo de negócios. De quais habilidades precisamos para a empresa crescer ao nível global? A primeira seria o multilinguismo. Sabemos que o inglês é uma língua que muitas pessoas estudam, mas, quando falamos de habilidades cognitivas superiores relacionadas à globalização, nos referimos ao grupo de pessoas que desenvolvem o aprendizado de mais de uma língua. Além disso, as habilidades cognitivas superiores também tem a ver com desenvolver uma escrita muito boa, tocar um instrumento musical, enfim, com as altas habilidades que, enquanto seres humanos, podemos desenvolver. Isso tem sido muito bem visto pela empresas. Por exemplo, se propomos uma rodada de investimentos para o nosso negócio, essas habilidades podem ser agregadas e ele.
