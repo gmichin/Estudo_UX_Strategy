@@ -255,6 +255,7 @@ Segundo a Dora Steimer, arquiteta de informação e UX Researcher, ou seja, pesq
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
+- Metodologias Ágeis: [Lean UX](https://brasil.uxdesign.cc/o-que-%C3%A9-lean-ux-525888067c36), [Kanban dentro do UX](https://www.alura.com.br/artigos/kanban-dentro-de-ux)
 - Empreendorismo Digital
   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;O Fórum Econômico Mundial divulgou recentemente 5 macrotendências de competências e habilidades para os próximos anos. Vamos pensar em como desenvolvê-las e o que significa tê-las:
