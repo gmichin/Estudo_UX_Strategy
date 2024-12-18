@@ -316,6 +316,32 @@ Como trabalhar com missão, visão e valores?
 
 Em alguns casos, teremos a liberdade de trabalhar missão, visão e valores junto à empresa. Porém, muitas vezes precisamos apenas nos aprofundar na missão, visão e valores para conseguir traçar as estratégias de UX que conversam com essas definições que a empresa já tem e nos apresenta. É essencial que as estratégias estejam sempre conectadas pelos direcionamentos estratégicos já traçados pelo negócio. UX Strategy é simplesmente coletar todas as informações da empresa para definir o que ela é e trazer para projetos que pensem a experiência da pessoa usuária.
 
+### Objetivos e metas
+Metas SMART
+![a](https://github.com/user-attachments/assets/1c6c8c3c-30f8-4aef-8118-40336ea6b3d7)
+
+Retângulo dividido em 5 porções lado a lado, preenchidas em verde, azul, amarelo, laranja e vermelho, da esquerda para a direita, e correspondentes às letras S, M, A, R e T, respectivamente, traçadas em preto sobre cada porção. Seus respectivos significados estão descritos abaixo na transcrição e representados em português acima de cada inicial.
+
+As metas precisam ser traçadas a partir de características. Elas devem ser:
+
+- Específicas (S - Specific);
+- Mensuráveis (M - Mensurable);
+- Atingíveis (A - Attainable);
+- Relevantes (R - Relevant);
+- Temporais (T - Temporal);
+  
+O plano de ação consiste em uma ferramenta muito comum na área de gestão, chamada 5W2H. Ferramenta 5W2H, formada por uma circunferência dividida em 7 porções preenchidas em azul-claro, azul-médio, azul-escuro, vinho, vermelho, laranja e amarelo, da esquerda para a direita. Cada porção contém a respectiva inscrição: "Quem (Who)", "Como (How)", "Quanto custa (How much)", "O quê? (What)", "Por quê? (Why)", "Onde (Where)" e "Quando (When)". Cada plano de ação é relacionado a um projeto específico. Inclusive, isso é válido para qualquer tarefa realizada pela empresa.O plano de ação tem a flexibilidade de transitar entre projetos maiores e tarefas menores cujo desenvolvimento seja necessário.
+![1](https://github.com/user-attachments/assets/23db40e8-8017-4af2-92d5-9c311dc1b70e)
+
+Sempre começamos o plano de ação pela etapa "O quê?" ("What?"), representada no topo do esquema acima. Seguimos o fluxo para a direita, passando pelas etapas abaixo, respectivamente:
+- Por quê? (Why?)
+- Onde? (Where?)
+- Quando? (When?)
+- Quem? (Who?)
+- Como? (How?)
+- Quanto custa? (How much?)
+- Plano de ação: programa de milhas
+  
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
