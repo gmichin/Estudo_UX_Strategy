@@ -342,6 +342,50 @@ Sempre começamos o plano de ação pela etapa "O quê?" ("What?"), representada
 - Quanto custa? (How much?)
 - Plano de ação: programa de milhas
   
+## Finalização do briefing
+### Entregas
+
+Briefing;
+Análise de ambiente;
+Análise da concorrência;
+Pesquisas com usuários;
+Personas;
+Mapeamento de jornada;
+MVP (Mínimo Produto Viável);
+Relatório de métricas.
+
+Essas são entregas básicas que fazem parte de projetos de UX Strategy no geral.
+
+### Orçamento e cronograma
+O orçamento é desenvolvido basicamente a partir do valor-hora de cada profissional que irá se envolver com o projeto.
+
+Exemplo:
+- 01 Designer Sênior (valor x hora = R$ 75,00 - 80 horas) = R$6.000,00
+- 01 Designer Junior (valor x hora = R$ 55,00 - 60 horas) = R$3.300,00
+- 02 Assistentes de Pesquisa (valor x hora = R$ 35,00 - 50 horas cada) = R$3.500,00
+  
+A partir desses cálculos, chegamos ao valor de consultoria de R$12.800,00 para a etapa de estratégias de UX.
+
+Observação: o valor-hora pode variar segundo a região, segundo cada profissional envolvido no projeto, entre outros fatores. Em alguns casos, a equipe pode ter pessoas internas que poderão colaborar com o nosso trabalho consultivo, então o valor irá variar para cada caso. Se a equipe for completamente interna, ou seja, se trabalharmos com estrategistas de UX dentro de uma empresa, o custo não irá existir, pois ele estará dissolvido entre toda a equipe.
+
+Eu te aconselho, principalmente enquanto consultor externo de UX Strategy, a desenhar um cronograma mais esmiuçado. Você perceberá a necessidade disso ao trabalhar com consultoria para clientes, pois eles precisam de um acompanhamento mais próximo. Existem algumas ferramentas que pode ajudar com essa organização. O próprio Trello ou o Todoist já solucionam a questão de estar sempre em contato com o cliente, mostrando as etapas desenvolvidas, o que ainda precisa ser feito, e assim por diante.
+
+Esse é o papel do cronograma. Abaixo, temos um modelo:
+
+Descoberta: 03 semanas
+Ideação: 01 semana
+Experimentação: 02 semanas
+
+Definimos aproximadamente quantas semanas vai durar cada fase do projeto. Conforme mencionado anteriormente, temos as fases do Design Thinking: descoberta, ideação, e experimentação. Somando as semanas, totalizamos cerca de 2 meses de trabalho reservados para a estratégia de UX. Podemos nos basear nessas previsões para planejar nossos trabalhos.
+
+### Comunicação e processos internos
+ É muito importante definir:
+- As ferramentas que serão utilizadas, como o Trello, por exemplo;
+- As ferramentas colaborativas de trabalho, como o Miro;
+- E também os processos, ou seja, quantas reuniões serão feitas; quando falaremos com cada pessoa do time; quando essas pessoas vão se reunir para realizar as dinâmicas de desenvolvimento, como o brainstorming de ideias para soluções do produto inovador.
+  
+Enquanto estrategistas de UX, pessoas que organizam e facilitam o processo de estratégia, é essencial estabelecer essas comunicações e processos. Além disso, devemos apresentar isso para a empresa e para os times, de modo que todos estejam alinhados.
+  
 ### Para saber mais
 - [Layers ponto Tech](https://www.alura.com.br/podcast/ux-e-apenas-digital-layers-ponto-tech-98-a1792)
 - [Redesenhando o e-commerce da Beleaf — UX Case study](https://brasil.uxdesign.cc/redesenhando-o-e-commerce-da-beleaf-ux-case-study-32ecd4ddf8ab)
